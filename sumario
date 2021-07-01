@@ -30,56 +30,9 @@ Revisão da Literatura
     Validação Cruzada/K-fold cross validation.  
     Variação Stratify.
     Leave one out. (Bases pequenas, deixa um de fora treina e testa) kfold com amostra de tamanho 1.
+  Sintonia de Hiperparâmetros
+    Feature Engineering
+    Feature Selection
+    Model Tuning
     
-    
-    
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+  
