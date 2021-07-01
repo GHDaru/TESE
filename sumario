@@ -27,6 +27,9 @@ Revisão da Literatura
   Validação
     Treino e Teste - Hold-out Validation - Validação Simples
     Treino/Validação/Teste
+    Validação Cruzada/K-fold cross validation.  
+    Variação Stratify.
+    Leave one out. (Bases pequenas, deixa um de fora treina e testa) kfold com amostra de tamanho 1.
     
     
     
