@@ -24,15 +24,68 @@ Revisão da Literatura
     Text Classification
   MACHINE LEARNING
   
+  Modelos Regressivos
+    Regressão Linear
+    Árvore Regressiva
+    Random Forest de Regressão
+    SVR -Support Vector Regressive
+  
+  Modelos Classificadores
+    Regressão Logística
+    Árvore de Classificação
+    Random Forest de Classificação
+    KNN - K vizinhos mais próximos K neighbors nearest
+    MLP - Multi Layer Perceptron (Redes Neurais)
+    
+    
+  Modelos Clusterizadores
+    Kmeans
+    DBSCAN - Density Based Spatial Clustering of Applications with Noise
+    .... passado no bootcamp
+    
+   Métricas de Distância
+    Manhattan
+    Euclidiana
+    Jaccard
+    ....
+    
+    Métricas de Avaliação
+    
+    Regressivos
+    RMS
+    R2
+    R2adj
+    RMSE
+    
+    Classificadores
+    Matriz de Confusão
+    Acurácia
+    Recall
+    Precision
+    F1 Score
+    macroprecision
+    
+    
+    Agrupadores
+  
+  
+  
+  
   Validação
     Treino e Teste - Hold-out Validation - Validação Simples
     Treino/Validação/Teste
     Validação Cruzada/K-fold cross validation.  
     Variação Stratify.
     Leave one out. (Bases pequenas, deixa um de fora treina e testa) kfold com amostra de tamanho 1.
+    
   Sintonia de Hiperparâmetros
     Feature Engineering
     Feature Selection
     Model Tuning
+    
+  Técnicas de Busca
+    Força Bruta
+    Random Search
+    GridSearch
     
   
