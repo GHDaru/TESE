@@ -3,7 +3,11 @@
 Revisão da Literatura
   Redes Neurais
     Tipos de Redes Neurais
-    Aprendizado
+    Tipos de Aprendizado
+      Supervisionado
+      Semi-Supervisionado
+      Não-Supervisionado
+      por Reforço
     Redes Densas
     Redes Convolucionais
     Redes Recorrentes
