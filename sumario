@@ -28,6 +28,17 @@ Revisão da Literatura
     Text Classification
   MACHINE LEARNING
   
+  Tipos de Aprendizado
+      Supervisionado
+      Semi-Supervisionado
+      Não-Supervisionado
+        Busca similaridades
+        Regras de Associação
+        Detecção de Anomalia
+      por Reforço
+      
+      
+  
   Modelos Regressivos
     Regressão Linear
     Regressão Não-Linear
@@ -47,8 +58,21 @@ Revisão da Literatura
     
     
   Modelos Clusterizadores
+    Categorias
+      Sequenciais
+      Hierárquicos
+        Agloberativos
+        Divisivos
+      Otimização de Custo
+      Outros:
     Kmeans
+    K-medoids
     DBSCAN - Density Based Spatial Clustering of Applications with Noise
+    Fuzzy C-Means
+    SOM
+    LVQ
+    BSAS - 
+    
     .... passado no bootcamp
     
    Métricas de Distância
