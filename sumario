@@ -30,6 +30,7 @@ Revisão da Literatura
   
   Modelos Regressivos
     Regressão Linear
+    Regressão Não-Linear
     Árvore Regressiva
     Random Forest de Regressão
     SVR -Support Vector Regressive
@@ -42,6 +43,7 @@ Revisão da Literatura
     MLP - Multi Layer Perceptron (Redes Neurais)
     Naive Bayes
     Support Vector Machine Classificatório
+      Soft Margin
     
     
   Modelos Clusterizadores
